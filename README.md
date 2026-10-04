@@ -2,7 +2,7 @@
 
 A facts-only mutual fund chatbot built to explore how **Retrieval-Augmented Generation (RAG)** can make financial research faster while keeping answers grounded in source information, with five official HDFC Mutual Fund scheme pages (Large Cap, Flexi Cap, ELSS Tax Saver, Small Cap, Balanced Advantage). It answers only from those pages, keeps every answer to ≤3 sentences, shows exactly one source link, and appends "Last updated from sources: ". Opinion, advice, return-comparison, and PII-bearing questions are refused before any retrieval.
 
-**Live:** [your deployed link]
+**Live:** 
 
 ---
 
