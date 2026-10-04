@@ -1,4 +1,4 @@
-# HDFC Mutual Fund Assistant
+#RAG based:  HDFC Mutual Fund Assistant
 
 A facts-only, cited-retrieval chatbot over five official HDFC Mutual Fund scheme pages
 (Large Cap, Flexi Cap, ELSS Tax Saver, Small Cap, Balanced Advantage). It answers **only**
