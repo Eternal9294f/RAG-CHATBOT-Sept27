@@ -9,7 +9,7 @@ PII-bearing questions are refused before any retrieval.
 Hand-rolled RAG pipeline on Chroma — no LangChain, no LlamaIndex, no external vector service.
 Spec: `PRD.md`. Design: `architecture.md`.
 
-## Why it refuses
+## What it refuses?
 
 There are two independent refusal layers:
 
